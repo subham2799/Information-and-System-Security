@@ -1,6 +1,6 @@
-                                                                  Information Systems Security Laboratory 
-                                                                              Spring 2021 
-                                                                    Assignment – 2 Date: March 11, 2021 
+                                                  Information Systems Security Laboratory 
+                                                              Spring 2021 
+                                                    Assignment – 2 Date: March 11, 2021 
     1. Implement the following traditional symmetric ciphers. 
       a. Shift Cipher 
       b. Multiplicative Cipher 
@@ -16,4 +16,4 @@
       c. Use an exhaustive key search to decrypt the following ciphertext, which was encrypted  using a Affine Cipher: 
          EFXECFBDQGGXRADQTFFUFSPGAHQTDGGAFZDJFGHJFBDQGHGDCCGXSFJDHQGAFZDJF 
                                                                     
-                                                                              ***********
+                                                              ***********
