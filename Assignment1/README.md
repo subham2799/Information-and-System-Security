@@ -6,7 +6,7 @@
   2. Multiplicative inverse of a number 
   3. Inverse of an m×m matrix with m ≤ 3 
   4. Implement Diffie Hellman Key Exchange (DHKE) Protocol, with small integer values for testing. Hence deliver a man-in-the-middle attack on the DHKE Protocol. 
-                                                                     
+                                                                      
                                                                     PART - B 
   1. Implement the Euclidean Algorithm, to find GCD of two numbers. 
 
