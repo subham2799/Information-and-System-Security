@@ -17,7 +17,7 @@
     (Drop the permutation function at the last round. Think why.)  
     
     Implement both the encryption and decryption functions for the above cipher, in the following modes of  encipherment: 
-    ∙ Electronic Code Book (ECB) mode,  
-    ∙ Cipher Block Chaining (CBC) mode and  
+    ∙ Electronic Code Book (ECB) mode
+    ∙ Cipher Block Chaining (CBC) mode   
                             
                            ========================================================================================== 
