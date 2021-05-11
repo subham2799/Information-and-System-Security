@@ -21,3 +21,38 @@
     ∙ Cipher Block Chaining (CBC) mode   
                             
                           ========================================================================================== 
+
+    Sample Run
+    SPN Cipher
+    1. Enter 1 to Encrypt
+    2. Enter 2 to Decrypt
+    3. Enter 3 to Exit
+    1
+
+    Encrypting.
+    Enter the number of rounds: 4
+    Enter the key
+    101100011010101000101101
+
+    Enter the S-box:
+    E4D12FB83A6C5907
+    The S-box is: 
+    0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15
+    E  4  D  1  2  F  B  8  3  A  6  C  5  9  0  7
+
+    Enter the P-box:
+    14573628
+    The P-box is: 
+    1  2  3  4  5  6  7  8 
+    1  4  5  7  3  6  2  8
+
+    Enter the plaintext.
+    10100100
+
+    You entered: 10100100
+
+    Final plaintext: 10100100
+
+    The encrypted text is: 00110100
+
+    
