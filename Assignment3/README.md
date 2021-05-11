@@ -33,4 +33,4 @@
           where m =26 is public, the secrets are A, B and the seed, where all A, B, Si belong to Z26, and an outsider is
           provided with the knowledge of only first 15 bits of plaintext, implement a way for (known-plaintext)
           cryptanalysis of the OTP.
-                                                        ************
+                                                         ************
